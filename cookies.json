@@ -1,0 +1,122 @@
+[
+  {
+    "name": "ig_lang",
+    "value": "en",
+    "domain": "www.instagram.com",
+    "path": "/",
+    "expires": -1,
+    "size": 9,
+    "httpOnly": false,
+    "secure": true,
+    "session": true,
+    "sameParty": false
+  },
+  {
+    "name": "ig_cb",
+    "value": "2",
+    "domain": "www.instagram.com",
+    "path": "/",
+    "expires": 4768761918,
+    "size": 6,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "ig_did",
+    "value": "BB9975E9-B6EB-4036-AE36-4E0B32E00D0E",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1676138718.490974,
+    "size": 42,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "ds_user_id",
+    "value": "50450057",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1620843312.949448,
+    "size": 18,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "mid",
+    "value": "YCVx3gALAAF-qsuFLoLkY9YYr4S1",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1676138718.491066,
+    "size": 31,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "csrftoken",
+    "value": "Ny31sEP0Oi3TIMBEKz27mywFz3ftQ5ZO",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1644516912.949313,
+    "size": 41,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "sessionid",
+    "value": "50450057%3AR2J958gcRQF7hL%3A3",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1644602728.627969,
+    "size": 38,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "shbts",
+    "value": "1613066728.8322926",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1613671530.778667,
+    "size": 23,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "shbid",
+    "value": "17197",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1613671530.778525,
+    "size": 10,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "rur",
+    "value": "NAO",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": -1,
+    "size": 6,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameParty": false
+  }
+]
